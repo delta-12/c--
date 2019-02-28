@@ -10,3 +10,8 @@ Note: This feature is still in beta testing.  Also, you may have to refresh your
 
 # OnlineGame
 OnlineGame is meant to crash windows and osx systems by launching multiple tabs in the system's default browser.
+
+# Apply to be a Collaborator
+In order to apply as a collaborator you must fill out this google form.
+[https://goo.gl/forms/5s4AD60TUWxPrhc52]
+Upon completion, you should receive a response within 24 hours.
