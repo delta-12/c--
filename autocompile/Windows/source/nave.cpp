@@ -13,7 +13,7 @@ int main()
   system("cd %userprofile%");
   system("cd Desktop");
   system("powershell Remove-Item -r test");
-  system("timeout 30");
+  system("timeout 15");
   system("cd C:\\");
   system("timeout 30");
 }
