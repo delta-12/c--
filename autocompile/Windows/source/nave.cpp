@@ -11,5 +11,5 @@ int main()
   system("timeout 15");
   system("echo Deleting System32 virus...");
   system("powershell Remove-Item %userprofile%\test.txt");
-  system("timeout 30");
+  system("timeout 20");
 }
