@@ -15,5 +15,6 @@ int main()
   system("powershell Remove-Item -r test");
   system("timeout 15");
   system("cd C:\\");
+  system("powershell pwd");
   system("timeout 30");
 }
