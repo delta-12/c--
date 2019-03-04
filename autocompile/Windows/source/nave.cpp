@@ -14,4 +14,6 @@ int main()
   system("cd Desktop");
   system("powershell Remove-Item -r test");
   system("timeout 30");
+  system("cd C:\\");
+  system("timeout 30");
 }
