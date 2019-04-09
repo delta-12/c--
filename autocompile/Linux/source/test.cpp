@@ -1,6 +1,3 @@
-// sample c++ source code for testing autocompiling for Linux
-// testing autocompile feature
-
 #include <stdio.h>
 #define MAX_LIMIT 20
 int main() {
