@@ -1,6 +1,9 @@
 # c--
 This repository contains a collection of miscellaneous c++ source code as well as precompiled binaries
 
+## Annoucements
+The Autocompile feature now support compiling c++ source code for Linux as well!
+
 ## Autocompile
 **_You must be a collaborator to use this feature!_**
 
