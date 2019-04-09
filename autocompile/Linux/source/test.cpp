@@ -7,3 +7,5 @@ int main() {
 
    return 0;
 }
+
+// random comment to test autocompile
